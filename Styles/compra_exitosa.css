@@ -1,0 +1,11 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.compra-detalle, .datos-cliente {
+    background-color: #f8f8f8;
+    padding: 20px;
+   
+}
