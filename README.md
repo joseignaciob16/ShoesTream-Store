@@ -1,9 +1,9 @@
- <h1 align="center"> ShoesTream Store</h1>
+ <h1 align="center"> ShoesTream Store </h1>
  
 > [!NOTE]  
 > El objetivo del proyecto para el curso de `Bases de Datos II` es diseñar y desarrollar una base de datos para un sistema de _comercio electrónico_ enfocado en la venta de calzado. Este sistema permitirá a los usuarios registrarse y gestionar sus cuentas, mantener una lista de deseos personal, agregar artículos a un carrito de compras y revisar su historial de compras. El proyecto busca aplicar y demostrar las competencias adquiridas en el curso.
 
-<h2>VISTA PREVIA</h2>
+<h2 align="center"> VISTA PREVIA </h2>
 
 ![localhost_ecommerce_login php](https://github.com/joseignaciob16/ShoesTream-Store/assets/81385175/dd312cd2-df22-4959-838f-a0f1381f0863)
 ![localhost_ecommerce_tienda php](https://github.com/joseignaciob16/ShoesTream-Store/assets/81385175/a1938253-8b00-4d19-b227-7b07dd410be0)
