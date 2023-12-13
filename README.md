@@ -1,6 +1,7 @@
-# ShoesTream-Store
-
-El objetivo del proyecto para el curso de `Bases de Datos II` es diseñar y desarrollar una base de datos para un sistema de _comercio electrónico_ enfocado en la venta de calzado. Este sistema permitirá a los usuarios registrarse y gestionar sus cuentas, mantener una lista de deseos personal, agregar artículos a un carrito de compras y revisar su historial de compras. El proyecto busca aplicar y demostrar las competencias adquiridas en el curso.
+ <h1 align="center"> ShoesTream Store</h1>
+ 
+> [!NOTE]  
+> El objetivo del proyecto para el curso de `Bases de Datos II` es diseñar y desarrollar una base de datos para un sistema de _comercio electrónico_ enfocado en la venta de calzado. Este sistema permitirá a los usuarios registrarse y gestionar sus cuentas, mantener una lista de deseos personal, agregar artículos a un carrito de compras y revisar su historial de compras. El proyecto busca aplicar y demostrar las competencias adquiridas en el curso.
 
 <h2>VISTA PREVIA</h2>
 
